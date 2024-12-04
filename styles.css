@@ -1,0 +1,25 @@
+head{
+    font-size: 30px;
+
+    color:red;
+    
+    font-weight:bold;
+}
+h1 { 
+
+    font-size: 30px; 
+  
+    color: red;
+  
+    font-weight: bold; 
+  
+  }
+  p { 
+
+    font-size: 16px; 
+  
+    color: #333; 
+  
+    font-style: italic; 
+  
+  }
